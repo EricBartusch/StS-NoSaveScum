@@ -4,7 +4,7 @@
     <groupId>nosavescum</groupId>
 
     <artifactId>NoSaveScum</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>No Save Scum</name>
     <description>A mod that removes the player&#39;s ability to reload a save</description>
 
